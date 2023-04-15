@@ -1,2 +1,3 @@
-# admin_training_game
-A gamified training session for Nextcloud administrators
+# 🎮 Admin Training Game
+
+A gamified training session for Nextcloud administrators.
